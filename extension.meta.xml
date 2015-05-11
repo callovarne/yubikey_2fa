@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="yubikey_2fa" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Yubikey OTP</name>
+	<description>Provides a Yubikey OTP field during author login.</description>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name>Patrick Walsh</name>
+			<website>http://craftycorvid.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1.0" date="2015-05-09" min="2.5">
+			Initial release
+		</release>
+	</releases>
+</extension>
