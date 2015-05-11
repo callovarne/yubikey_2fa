@@ -1,9 +1,9 @@
 <?php
 
-require_once(EXTENSIONS . '/yubikey_2fa/lib/Auth_Yubico-2.5/Yubico.php');
+require_once(EXTENSIONS . '/yubikey_otp/lib/Auth_Yubico-2.5/Yubico.php');
 require_once('PEAR.php');
 
-class extension_yubikey_2fa extends Extension {
+class extension_yubikey_otp extends Extension {
 
 	public function getSubscribedDelegates() {
 
