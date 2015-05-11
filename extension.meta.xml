@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="yubikey_otp" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+<extension id="yubikey_otp" status="experimental" xmlns="http://getsymphony.com/schemas/extension/1.0">
 	<name>Yubikey OTP</name>
 	<description>Provides a Yubikey OTP field during author login.</description>
 	<repo type="github">https://github.com/callovarne/yubikey_otp</repo>
